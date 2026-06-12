@@ -1,22 +1,16 @@
 # Job 3 - Projet : Calculette Unitaire
 
-## Description
+## tests unitaires
 
-Ce projet consiste à mettre en place des tests unitaires automatisés pour vérifier le bon fonctionnement de deux calculatrices :
+### PHP (phpunit)
 
-- une en PHP
-- une en JavaScript
-
----
-
-## ▶️ Lancer les tests
-
-### PHP (PHPUnit)
 
 ```bash
 composer test
 
-### javascript(Jest)
+
+jest
+
 npm test
 ```
 
