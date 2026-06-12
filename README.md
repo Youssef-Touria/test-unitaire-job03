@@ -1,15 +1,14 @@
-# Job 3 - Projet : Calculette Unitaire
+Job 3 - Projet : Calculette Unitaire
+## Tests unitaires
 
-## tests unitaires
-
-### PHP (phpunit)
+### PHP
 
 
 ```bash
 composer test
 
 
-jest
+### JavaScript (Jest)
 
 npm test
 ```
