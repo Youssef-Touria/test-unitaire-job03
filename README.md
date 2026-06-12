@@ -1,17 +1,14 @@
 Job 3 - Projet : Calculette Unitaire
+
 ## Tests unitaires
 
 ### PHP
 
-
-```bash
 composer test
-
 
 ### JavaScript (Jest)
 
 npm test
-```
 
 Exemples de résultats
 
