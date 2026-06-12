@@ -18,13 +18,12 @@ composer test
 
 ### javascript(Jest)
 npm test
+```
 
 Exemples de résultats
-
 
 PHPUnit
 !['phpunit'](screenshots/phpunit_results.jpg)
 
 Jest
 !['jest'](screenshots/jest_results.jpg)
-```
